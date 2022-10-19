@@ -1,0 +1,9 @@
+let reg_data="1234@";
+let login_data="1234@";
+if(reg_data==login_data){
+
+console.log("login succesfull")
+}
+else{
+console.log("unsuccesfull");
+}
